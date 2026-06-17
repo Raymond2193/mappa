@@ -25,8 +25,8 @@ Businesses can also manually override suggested slots, mark days/times as unavai
 
 ## Roadmap
 
-- [ ] Step 1 — Repo and environment setup
-- [ ] Step 2 — Frontend scaffold
+- [X] Step 1 — Repo and environment setup
+- [X] Step 2 — Frontend scaffold
 - [ ] Step 3 — Backend scaffold
 - [ ] Step 4 — Database design and setup
 - [ ] Step 5 — Auth
